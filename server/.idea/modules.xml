@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/back_parent/back_parent.iml" filepath="$PROJECT_DIR$/back_parent/back_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back_parent/eureka_server/eureka_server.iml" filepath="$PROJECT_DIR$/back_parent/eureka_server/eureka_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back_parent/gateway/gateway.iml" filepath="$PROJECT_DIR$/back_parent/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back_parent/service_book/service_book.iml" filepath="$PROJECT_DIR$/back_parent/service_book/service_book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back_parent/service_order/service_order.iml" filepath="$PROJECT_DIR$/back_parent/service_order/service_order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back_parent/service_oss/service_oss.iml" filepath="$PROJECT_DIR$/back_parent/service_oss/service_oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back_parent/service_user/service_user.iml" filepath="$PROJECT_DIR$/back_parent/service_user/service_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back_parent/utils/utils.iml" filepath="$PROJECT_DIR$/back_parent/utils/utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/前台.iml" filepath="$PROJECT_DIR$/.idea/前台.iml" />
+    </modules>
+  </component>
+</project>
